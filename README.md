@@ -16,7 +16,7 @@
 ![](https://komarev.com/ghpvc/?username=deepanshug4)
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="24px">
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="26">](https://www.linkedin.com/in/deepanshug4/)         [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="26">](https://www.instagram.com/deepanshug4/)         [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="26">](mailto:deepanshug050@gmail.com)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="26">](https://www.linkedin.com/in/deepanshug4/)       [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="26">](mailto:deepanshug050@gmail.com)
 <br>
 <br>
 
