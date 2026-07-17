@@ -7,8 +7,6 @@
 
 
 
-![Deepanshu's Github stats](https://github-readme-stats.vercel.app/api?username=deepanshug4&show_icons=true&theme=radical)
-
 
 ![](https://komarev.com/ghpvc/?username=deepanshug4)
 
