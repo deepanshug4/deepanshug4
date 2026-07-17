@@ -1,10 +1,7 @@
 ### Hi 👋, I am Deepanshu Gupta
 
-- 🔭 I’m currently working on: Web development, Python Programs
-- 🌱 I’m currently learning: Machine Learning
-- 👯 I’m looking to collaborate for: Hackathons and Coding Events
 - 🤔 I’m looking for help with: Data Science
-- 💬 Ask me about: Python, Web Development, Ui/UX designing
+- 💬 Ask me about: Python, Web Development
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to travel
 
