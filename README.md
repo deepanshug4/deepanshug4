@@ -4,8 +4,6 @@
 
 I bridge the gap between complex machine learning models and intuitive user experiences. With a background spanning **Data Science, Web Development, and UI/UX Design**, I specialize in building end-to-end data products that translate messy datasets into actionable, revenue-driving business insights.
 
-🌐 [LinkedIn](https://linkedin.com/in/deepanshug4)
-
 ---
 
 ## 🚀 Featured Portfolio Projects
@@ -51,3 +49,10 @@ I bridge the gap between complex machine learning models and intuitive user expe
 </p>
 
 > **Note to Recruiters:** I design my repositories with reproducibility in mind. You will find standardized `requirements.txt` files, dockerized environments, or detailed documentation in each of my major projects to ensure seamless local deployment. Let's build something impactful together!
+
+![](https://komarev.com/ghpvc/?username=deepanshug4)
+
+## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="24px">
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="26">](https://www.linkedin.com/in/deepanshug4/)       [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" width="26">](mailto:deepanshug050@gmail.com)
+<br>
+
