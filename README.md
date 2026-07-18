@@ -1,43 +1,99 @@
-# Hi, I'm Deepanshu Gupta 👋 
+# Hi, I'm Deepanshu Gupta 👋
 
-### Data Scientist & Analytics Engineer | Full-Stack Developer
+**Senior Data Analyst | Product Analytics | Data Science**
 
-I bridge the gap between complex machine learning models and intuitive user experiences. With a background spanning **Data Science, Web Development, and UI/UX Design**, I specialize in building end-to-end data products that translate messy datasets into actionable, revenue-driving business insights.
-
----
-
-## 🚀 Featured Portfolio Projects
-
-### 🚗 1. Intelligent Traffic & Vehicle Intelligence Platform
-*A computer vision pipeline optimized for smart city analytics, automating vehicle classification and license plate extraction.*
-*   **The Solution:** Engineered a multi-stage vision workflow using YOLO-based architectures and OpenCV to detect vehicles from live video feeds, classify their types, and isolate license plates for administrative auditing.
-*   **Tech Stack:** Python, PyTorch, OpenCV, Streamlit
-*   🔗 [View Repository](https://github.com/deepanshug4/Vehicle_Classification_with_NumberPlate_Detection)
-
-### ✍️ 3. Interactive Handwriting Recognition System
-*A lightweight desktop application that brings deep learning models into a user-facing graphical environment.*
-*   **The Solution:** Bridged the gap between model deployment and client accessibility by embedding an optimized character recognition network inside a tailored GUI, emphasizing user-centric interface design.
-*   **Tech Stack:** Python, TensorFlow/Keras, Tkinter, UI/UX Architecture
-*   🔗 [View Repository](https://github.com/deepanshug4/Handwriting_Recognition_GUI)
+I enjoy building data products that help answer business questions. My work focuses on product analytics, experimentation, automation, and machine learning, with experience across SQL, Python, dashboards, and data-driven decision making.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## 🚀 Featured Projects
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Data Science & ML** | Python, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, SHAP, OpenCV |
-| **Data Engineering** | SQL, PostgreSQL, ETL Pipelines, Google Cloud Platform (GCP) |
-| **Analytics & Viz** | Streamlit, Plotly, Tableau, Matplotlib, Seaborn |
-| **Web Dev & UI/UX** | HTML5, CSS3, JavaScript, UI/UX Architecture, Figma |
+### 📊 SaaS Product Analytics
+An end-to-end product analytics project that simulates a SaaS business using synthetic data. The project includes KPI reporting, acquisition analysis, cohort retention, revenue tracking, and an interactive Streamlit dashboard.
+
+**Tech:** Python • Pandas • Plotly • Streamlit
+
+🔗 https://github.com/deepanshug4/saas-product-analytics
 
 ---
 
-> **Note to Recruiters:** I design my repositories with reproducibility in mind. You will find standardized `requirements.txt` files, dockerized environments, or detailed documentation in each of my major projects to ensure seamless local deployment. Let's build something impactful together!
+### 📘 Product Analytics Playbook
+A collection of real-world product analytics case studies, SQL challenges, KPI frameworks, experimentation concepts, and business metrics commonly used in Product Analytics interviews.
+
+**Topics:** SQL • A/B Testing • Metrics • Product Thinking
+
+🔗 https://github.com/deepanshug4/Product-Analytics-Playbook
+
+---
+
+### 🚗 Vehicle Classification & Number Plate Detection
+Computer vision pipeline for vehicle detection, classification, and license plate extraction using deep learning.
+
+**Tech:** Python • OpenCV • PyTorch
+
+🔗 https://github.com/deepanshug4/Vehicle_Classification_with_NumberPlate_Detection
+
+---
+
+### ✍️ Handwriting Recognition GUI
+Desktop application that integrates a handwritten digit recognition model into an interactive graphical interface.
+
+**Tech:** Python • TensorFlow • Tkinter
+
+🔗 https://github.com/deepanshug4/Handwriting_Recognition_GUI
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+- Python
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+**Data & Analytics**
+
+- Pandas
+- NumPy
+- Plotly
+- Streamlit
+- Tableau
+- Excel
+
+**Machine Learning**
+
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- OpenCV
+
+**Tools**
+
+- Git
+- GitHub
+- Google Cloud Platform
+- Jupyter Notebook
+
+---
+
+## 📌 Areas of Interest
+
+- Product Analytics
+- Experimentation & A/B Testing
+- Customer Behavior Analysis
+- Business Intelligence
+- Data Science
+- Machine Learning
+- Automation
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/deepanshug4/
+- Email: deepanshug050@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=deepanshug4)
-
-## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="24px">
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="26">](https://www.linkedin.com/in/deepanshug4/)       [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" width="26">](mailto:deepanshug050@gmail.com)
-<br>
-
