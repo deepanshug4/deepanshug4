@@ -41,13 +41,6 @@ I bridge the gap between complex machine learning models and intuitive user expe
 
 ---
 
-## 📊 GitHub Ecosystem Insights
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshug4&show_icons=true&theme=radial&hide_border=true" alt="Deepanshu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshug4&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 > **Note to Recruiters:** I design my repositories with reproducibility in mind. You will find standardized `requirements.txt` files, dockerized environments, or detailed documentation in each of my major projects to ensure seamless local deployment. Let's build something impactful together!
 
 ![](https://komarev.com/ghpvc/?username=deepanshug4)
