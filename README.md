@@ -8,15 +8,7 @@ I bridge the gap between complex machine learning models and intuitive user expe
 
 ## 🚀 Featured Portfolio Projects
 
-### 📈 1. ChurnGuard AI: Business Intelligence & Explainable Churn Prediction
-*An end-to-end data science framework designed to predict subscription churn, explain model behavior at a customer level, and simulate financial ROI.*
-*   **The Problem:** Standard black-box ML models predict *who* will churn but fail to tell retention teams *why*, leading to generic, expensive, and ineffective discount campaigns.
-*   **The Solution:** Built a classification pipeline wrapped in a custom Streamlit dashboard. Uses **SHAP (Shapley Additive exPlanations)** to break down features (e.g., tenure, support tickets, usage drops) driving individual churn risk. 
-*   **Business Impact:** Included an interactive ROI Calculator allowing stakeholders to simulate retention budget allocation, proving a hypothetical mitigation of customer acquisition costs by up to 14%.
-*   **Tech Stack:** Python, Scikit-Learn, SHAP, Streamlit, Pandas, Seaborn
-*   🔗 [View Repository](https://github.com/deepanshug4/ChurnGuard-AI) *(Replace with your actual link once created)*
-
-### 🚗 2. Intelligent Traffic & Vehicle Intelligence Platform
+### 🚗 1. Intelligent Traffic & Vehicle Intelligence Platform
 *A computer vision pipeline optimized for smart city analytics, automating vehicle classification and license plate extraction.*
 *   **The Solution:** Engineered a multi-stage vision workflow using YOLO-based architectures and OpenCV to detect vehicles from live video feeds, classify their types, and isolate license plates for administrative auditing.
 *   **Tech Stack:** Python, PyTorch, OpenCV, Streamlit
