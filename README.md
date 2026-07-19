@@ -15,6 +15,11 @@ An end-to-end product analytics project that simulates a SaaS business using syn
 
 🔗 https://github.com/deepanshug4/saas-product-analytics
 
+## 🚀 Live Dashboard
+
+👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://saas-analytics-project.streamlit.app/)
+
+No installation required.
 ---
 
 ### 📘 Product Analytics Playbook
