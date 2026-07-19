@@ -19,7 +19,7 @@ An end-to-end product analytics project that simulates a SaaS business using syn
 
 👉 **https://saas-analytics-project.streamlit.app/**
 
-No installation required.
+#### No installation required.
 ---
 
 ### 📘 Product Analytics Playbook
