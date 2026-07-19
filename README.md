@@ -11,7 +11,7 @@ This GitHub showcases projects across **Product Analytics, Data Science, and Mac
 # 📌 Experience Highlights
 
 - 🚗 Senior Data Analyst — **Agoda**
-- 🚕 Data Analyst — **Uber**
+- 🚕 Data Analyst III — **Uber**
 - 📊 Product Analytics & Experimentation
 - 🐍 SQL • Python • Automation
 - 📈 Dashboards • Business Intelligence • Machine Learning
