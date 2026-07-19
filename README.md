@@ -1,57 +1,84 @@
 # Hi, I'm Deepanshu Gupta 👋
 
-**Senior Data Analyst | Product Analytics | Data Science**
+**Senior Data Analyst | Product Analytics | SQL | Python**
 
-I enjoy building data products that help answer business questions. My work focuses on product analytics, experimentation, automation, and machine learning, with experience across SQL, Python, dashboards, and data-driven decision making.
+Senior Data Analyst with experience building analytics solutions at **Uber** and **Agoda**. I specialize in product analytics, experimentation, automation, and data-driven decision making using SQL and Python.
 
----
-
-## 🚀 Featured Projects
-
-### 📊 SaaS Product Analytics
-An end-to-end product analytics project that simulates a SaaS business using synthetic data. The project includes KPI reporting, acquisition analysis, cohort retention, revenue tracking, and an interactive Streamlit dashboard.
-
-**Tech:** Python • Pandas • Plotly • Streamlit
-
-🔗 https://github.com/deepanshug4/saas-product-analytics
-
-#### 🚀 Live Dashboard
-
-👉 **https://saas-analytics-project.streamlit.app/**
-
-#### No installation required.
----
-
-### 📘 Product Analytics Playbook
-A collection of real-world product analytics case studies, SQL challenges, KPI frameworks, experimentation concepts, and business metrics commonly used in Product Analytics interviews.
-
-**Topics:** SQL • A/B Testing • Metrics • Product Thinking
-
-🔗 https://github.com/deepanshug4/Product-Analytics-Playbook
+This GitHub showcases portfolio projects inspired by real-world analytics problems, including interactive dashboards, product analytics case studies, machine learning applications, and end-to-end analytics workflows.
 
 ---
 
-### 🚗 Vehicle Classification & Number Plate Detection
-Computer vision pipeline for vehicle detection, classification, and license plate extraction using deep learning.
+## 📌 Experience Highlights
 
-**Tech:** Python • OpenCV • PyTorch
-
-🔗 https://github.com/deepanshug4/Vehicle_Classification_with_NumberPlate_Detection
-
----
-
-### ✍️ Handwriting Recognition GUI
-Desktop application that integrates a handwritten digit recognition model into an interactive graphical interface.
-
-**Tech:** Python • TensorFlow • Tkinter
-
-🔗 https://github.com/deepanshug4/Handwriting_Recognition_GUI
+- 🚗 Senior Data Analyst — **Agoda**
+- 🚕 Data Analyst — **Uber**
+- 📊 Product Analytics & Experimentation
+- 🐍 SQL • Python • Automation
+- 📈 Dashboards • Business Intelligence • Machine Learning
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects
 
-**Languages**
+## 📊 SaaS Product Analytics
+
+An end-to-end product analytics project that simulates a SaaS business using synthetic data. The project covers acquisition analysis, KPI reporting, cohort retention, revenue tracking, and interactive business dashboards.
+
+**Tech Stack:** Python • Pandas • Plotly • Streamlit
+
+**📂 Repository:**  
+https://github.com/deepanshug4/saas-product-analytics
+
+**🌐 Live Dashboard:**  
+https://saas-analytics-project.streamlit.app/
+
+> Explore the dashboard directly in your browser—no installation required.
+
+---
+
+## 📘 Product Analytics Playbook
+
+A collection of practical product analytics case studies built using SQL and Python. The repository demonstrates how Product Analysts answer common business questions through funnel analysis, pricing analysis, customer segmentation, experimentation, and KPI design.
+
+**Topics Covered**
+
+- Funnel Analysis
+- Product Metrics
+- SQL Analytics
+- Experimentation & A/B Testing
+- Business Recommendations
+- Product Thinking
+
+**📂 Repository:**  
+https://github.com/deepanshug4/Product-Analytics-Playbook
+
+---
+
+## 🚗 Vehicle Classification & Number Plate Detection
+
+Computer vision pipeline for vehicle detection, classification, and automatic number plate extraction using deep learning.
+
+**Tech Stack:** Python • OpenCV • PyTorch
+
+**📂 Repository:**  
+https://github.com/deepanshug4/Vehicle_Classification_with_NumberPlate_Detection
+
+---
+
+## ✍️ Handwriting Recognition GUI
+
+Desktop application integrating a handwritten digit recognition model into an interactive graphical interface.
+
+**Tech Stack:** Python • TensorFlow • Tkinter
+
+**📂 Repository:**  
+https://github.com/deepanshug4/Handwriting_Recognition_GUI
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
 
 - Python
 - SQL
@@ -59,7 +86,7 @@ Desktop application that integrates a handwritten digit recognition model into a
 - HTML
 - CSS
 
-**Data & Analytics**
+### Analytics & Visualization
 
 - Pandas
 - NumPy
@@ -68,14 +95,14 @@ Desktop application that integrates a handwritten digit recognition model into a
 - Tableau
 - Excel
 
-**Machine Learning**
+### Machine Learning
 
 - Scikit-learn
 - TensorFlow
 - PyTorch
 - OpenCV
 
-**Tools**
+### Tools
 
 - Git
 - GitHub
@@ -84,21 +111,28 @@ Desktop application that integrates a handwritten digit recognition model into a
 
 ---
 
-## 📌 Areas of Interest
+# 🎯 Areas of Expertise
 
 - Product Analytics
+- Product Metrics & KPI Design
+- Funnel Analysis
 - Experimentation & A/B Testing
 - Customer Behavior Analysis
 - Business Intelligence
+- Automation
 - Data Science
 - Machine Learning
-- Automation
 
 ---
 
-## 📫 Connect
+# 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/deepanshug4/
-- Email: deepanshug050@gmail.com
+**LinkedIn**  
+https://www.linkedin.com/in/deepanshug4/
+
+**Email**  
+deepanshug050@gmail.com
+
+---
 
 ![](https://komarev.com/ghpvc/?username=deepanshug4)
